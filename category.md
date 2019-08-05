@@ -2,7 +2,6 @@
 layout: default
 title: Category
 permalink: /category/
-public: true
 ---
 
 <div class="home">
@@ -20,5 +19,4 @@ public: true
 </ul>
 {% endunless %}{% endfor %}
   </ul>
-  
 </div>
