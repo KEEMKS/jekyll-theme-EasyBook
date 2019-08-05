@@ -16,6 +16,9 @@ header:
     Category: /category/
     Youtube: https://www.youtube.com/channel/UCuD_fHTE5YwDVCX9aneryjw?view_as=subscriber
 
+baseurl: "myblog"
+url: ""
+
 # Build settings
 markdown: kramdown
 theme: minima
