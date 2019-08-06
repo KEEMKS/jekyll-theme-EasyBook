@@ -6,7 +6,7 @@ categories: jekyll update
 ---
  
 ## Contact
-- E-mail : `seok9657@gmail.com`
+- E-mail : [`seok9657@gmail.com`][Mail]
 - Blog : [`https://blog.naver.com/seok9657`][Blog]
 - Github : [`https://github.com/KEEMKS`][Github]
 - Youtube : [`https://www.youtube.com/channel/UCuD_fHTE5YwDVCX9aneryjw?view_as=subscriber`][Youtube]
@@ -16,6 +16,7 @@ categories: jekyll update
 [Github]: https://github.com/KEEMKS
 [Youtube]: https://www.youtube.com/channel/UCuD_fHTE5YwDVCX9aneryjw?view_as=subscriber
 [Instagram]: https://www.instagram.com/czysukeem/
+[Mail]: mailto:seok9657@gmail.com
 
 ## History
 - 졸업 : 
